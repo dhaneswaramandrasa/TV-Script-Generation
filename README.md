@@ -17,8 +17,8 @@ The code should run with no issues using Python versions 3.*. Detailed required 
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/HectorBudielE/udacity-tv-script-generation.git
-		cd udacity-tv-script-generation
+		git clone https://github.com/dhaneswaramandrasa/TV-Script-Generation.git
+		cd TV-Script-Generation
 	```
 2. Make sure you have already installed the necessary Python packages according to the requirements.txt file.
 3. Open a terminal window and navigate to the project folder. Open the notebook and follow the steps.
